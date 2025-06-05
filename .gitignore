@@ -1,0 +1,20 @@
+# R specific files
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+*.rds
+*.qs
+
+# renv files
+renv/library/
+renv/staging/
+renv/local/
+renv/activate.R
+renv/settings.dcf
+renv/.gitignore
+
+
+# Operating System files
+.DS_Store
+Thumbs.db
